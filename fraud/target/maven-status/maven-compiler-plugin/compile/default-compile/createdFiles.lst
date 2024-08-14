@@ -1,0 +1,7 @@
+com\amigoscode\FraudChechkHistory.class
+com\amigoscode\FraudController.class
+com\amigoscode\FraudCheckService.class
+com\amigoscode\FraudRepository.class
+com\amigoscode\FraudChechkHistory$FraudChechkHistoryBuilder.class
+com\amigoscode\FraudCheckResponse.class
+com\amigoscode\FraudApplication.class
